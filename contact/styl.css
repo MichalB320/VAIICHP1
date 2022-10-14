@@ -5,6 +5,7 @@ body {
 .bg-mojePoz {
     background: #1a1e21;
     border: #dc3545 1px solid;
+    margin: 5px;
 }
 
 .fa {
